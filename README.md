@@ -1,3 +1,3 @@
 # cep-ndd-lab3
 
-**This repo has information about baking and appetizers
+## this repo has information about baking and appetizers
