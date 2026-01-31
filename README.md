@@ -2,5 +2,5 @@
 
 ## Baking and Appetizer instructions
 
-The instructions also have links 
+The instructions also have links for the baking and appetizer 
 
